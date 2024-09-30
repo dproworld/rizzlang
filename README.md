@@ -1,0 +1,2 @@
+# rizzlang
+Funny lil language
